@@ -13,10 +13,6 @@
     
 }
 ```
-# GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NestorPlasencia&count_private=true&show_icons=true)
-
 
 # Last Work Tech Stack
 <p>
@@ -33,11 +29,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
-
-# Most Used Language
-
-![GitHub
-stats](https://github-readme-stats.vercel.app/api/top-langs?username=NestorPlasencia&show_icons=true&locale=en&layout=compact)
 
 
 # Full Tech Stack
